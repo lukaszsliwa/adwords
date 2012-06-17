@@ -1,6 +1,6 @@
-= adwords
+= Adwords Ruby Gem
 
-Description goes here.
+This gem provides very simple and easy interface to operate on Google Adwords API in Ruby.
 
 == Contributing to adwords
  
