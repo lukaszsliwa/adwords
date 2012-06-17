@@ -15,10 +15,10 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "adwords"
-  gem.homepage = "http://github.com/mrplum/adwords"
+  gem.homepage = "http://github.com/lukaszsliwa/adwords"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Facade for google-adwords-api gem}
+  gem.description = %Q{This gem provides very simple and easy interface to operate on Google Adwords API in Ruby}
   gem.email = "lukasz.sliwa@gmail.com"
   gem.authors = ["Łukasz Śliwa"]
   # dependencies defined in Gemfile
